@@ -1,7 +1,7 @@
 class Ruffle < Formula
   desc "Flash Player emulator written in Rust"
   homepage "https://ruffle.rs"
-  head "https://github.com/ruffle-rs/ruffle.git"
+  head "https://github.com/joker2k1/ruffle.git"
   license "MIT"
 
   depends_on "rust" => :build
